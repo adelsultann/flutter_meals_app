@@ -1,7 +1,7 @@
 # delivery_app
 
 
-🌟 If this repository reaches 50 stars, I commit to adding a full backend implementation to the app! 🚀
+🌟 If this repository reaches 50 stars, I commit to add a full backend implementation to the app! 🚀
 
 
 A modern, feature-rich food delivery application built with Flutter.
