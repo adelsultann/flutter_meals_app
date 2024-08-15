@@ -1,16 +1,28 @@
 # delivery_app
 
-A new Flutter project.
 
-## Getting Started
+🌟 If this repository reaches 50 stars, I commit to adding a full backend implementation to the app! 🚀
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+A modern, feature-rich food delivery application built with Flutter.
+![Recording 2024-08-15 124832](https://github.com/user-attachments/assets/1ae71956-9f64-4a90-959c-8cffef9abd78)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Riverpod State Management**: Utilizes Flutter Riverpod for efficient and scalable state management across the app.
+- **Custom Theming**: Implements a dark theme with customizable color schemes for a unique user experience.
+- **Cart Functionality**: Robust shopping cart system with add, remove, and update quantity features.
+- **Category-based Meal Browsing**: Browse meals by categories for easy navigation.
+- **Meal Details**: Detailed view for each meal with ingredients, pricing, and user reviews.
+- **Responsive UI**: Adapts to different screen sizes for a consistent experience across devices.
+
+
+## Setup and Installation
+
+1. Ensure you have Flutter installed on your machine.
+2. Clone the repository: `git clone https://github.com/yourusername/flutter-delivery-app.git`
+3. Navigate to the project directory: `cd flutter-delivery-app`
+4. Get dependencies: `flutter pub get`
+5. Run the app: `flutter run`
+
+if it gets +50 starts i will add the backend to the app 🤩
